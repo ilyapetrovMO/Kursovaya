@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.2.27)  28 FEB 2019 12:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.5.8)  19 JUN 2019 16:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -443,14 +443,14 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (/home/gosha/latex/Kursach/Kursovaya/Postanovka.aux) ) 
 Here is how much of TeX's memory you used:
  4806 strings out of 492616
- 66060 string characters out of 6135177
+ 66060 string characters out of 6135178
  140338 words of memory out of 5000000
  8653 multiletter control sequences out of 15000+600000
  9010 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,4n,40p,618b,185s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /home/gosha/latex/Kursach/Kursovaya/Postanovka.pdf (2 pages, 62391 bytes).
+Output written on /home/gosha/latex/Kursach/Kursovaya/Postanovka.pdf (2 pages, 61967 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
