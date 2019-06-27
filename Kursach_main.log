@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.5.8)  19 JUN 2019 16:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.5.8)  27 JUN 2019 11:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/gosha/latex/Kursach/Kursovaya/Postanovka.tex
-(/home/gosha/latex/Kursach/Kursovaya/Postanovka.tex
+**/home/gosha/latex/Kursach/Kursovaya/Kursach_main.tex
+(/home/gosha/latex/Kursach/Kursovaya/Kursach_main.tex
 LaTeX2e <2018-12-01>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -359,36 +359,55 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 )
 \c@subfigure=\count104
 \c@subtable=\count105
-) (/home/gosha/latex/Kursach/Kursovaya/Postanovka.aux)
-\openout1 = `Postanovka.aux'.
+) (/usr/share/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+ (/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen122
+\ar@mcellbox=\box29
+\extrarowheight=\dimen123
+\NC@list=\toks28
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box30
+)
+\TX@col@width=\dimen124
+\TX@old@table=\dimen125
+\TX@old@col=\dimen126
+\TX@target=\dimen127
+\TX@delta=\dimen128
+\TX@cols=\count106
+\TX@ftn=\toks29
+) (/home/gosha/latex/Kursach/Kursovaya/Kursach_main.aux (/home/gosha/latex/Kursach/Kursovaya/vvedenie.aux) (/home/gosha/latex/Kursach/Kursovaya/Postanovka.aux) (/home/gosha/latex/Kursach/Kursovaya/analiz_predmetnoi_oblasti.aux) (/home/gosha/latex/Kursach/Kursovaya/model_proekta.aux))
+\openout1 = `Kursach_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count106
-\scratchdimen=\dimen122
-\scratchbox=\box29
-\nofMPsegments=\count107
-\nofMParguments=\count108
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count109
-\MPscratchDim=\dimen123
-\MPnumerator=\count110
-\makeMPintoPDFobject=\count111
-\everyMPtoPDFconversion=\toks29
+\scratchcounter=\count107
+\scratchdimen=\dimen129
+\scratchbox=\box31
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen130
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
+\everyMPtoPDFconversion=\toks31
 ) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
  (/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
@@ -432,28 +451,140 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 18.
+\openout2 = `vvedenie.aux'.
+
+ (/home/gosha/latex/Kursach/Kursovaya/vvedenie.tex)
+Overfull \hbox (9.7287pt too wide) in paragraph at lines 3--11
+\T2A/cmr/m/n/12 уда-лен-но-го до-сту-па и мо-ни-то-рин-га си-стем сво-их ин-фор-ма-ци-он-ных средств.
+ []
+
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+\openout2 = `Postanovka.aux'.
+
+ (/home/gosha/latex/Kursach/Kursovaya/Postanovka.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 10.
  (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 18.
- [1
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
+ [2
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (/home/gosha/latex/Kursach/Kursovaya/Postanovka.aux) ) 
+
+]) [3]
+\openout2 = `analiz_predmetnoi_oblasti.aux'.
+
+ (/home/gosha/latex/Kursach/Kursovaya/analiz_predmetnoi_oblasti.tex) [4
+
+
+]
+\openout2 = `model_proekta.aux'.
+
+ (/home/gosha/latex/Kursach/Kursovaya/model_proekta.tex [5
+
+
+] (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd) (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \hbox (badness 5862) in paragraph at lines 57--57
+[]|\T2A/cmr/m/n/12 Пользователь ре-ша-ет зай-ти в
+ []
+
+
+Underfull \hbox (badness 6658) in paragraph at lines 57--57
+[]|\T2A/cmr/m/n/12 Пользователь за-хо-дит в свою
+ []
+
+[6]
+Underfull \hbox (badness 4913) in paragraph at lines 80--80
+[]|\T2A/cmr/m/n/12 Пользователь ре-ша-ет до-ба-вить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\T2A/cmr/m/n/12 Пользователь со-здал но-вое
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 98--98
+[]|\T2A/cmr/m/n/12 Пользователь ре-ша-ет из-ме-нить
+ []
+
+[7]
+Underfull \hbox (badness 1264) in paragraph at lines 117--117
+[]|\T2A/cmr/m/n/12 Пользователь уда-лил ра-нее до-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+\T2A/cmr/m/n/12 бав-лен-ное устрой-ство. Дан-ные
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 135--135
+[]|\T2A/cmr/m/n/12 Пользователь ре-ша-ет на-стро-ить
+ []
+
+[8]
+Underfull \hbox (badness 1014) in paragraph at lines 169--169
+[]|\T2A/cmr/m/n/12 Пользователь ре-ша-ет на-стро-ить
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 169--169
+\T2A/cmr/m/n/12 вид отоб-ра-же-ния дан-ных для
+ []
+
+[9]
+Underfull \hbox (badness 1014) in paragraph at lines 188--188
+[]|\T2A/cmr/m/n/12 Посмотреть дан-ные в ис-ход-ном
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 188--188
+[]|\T2A/cmr/m/n/12 Пользователь уви-дел дан-ные с
+ []
+
+[10]
+Underfull \hbox (badness 1888) in paragraph at lines 206--206
+[]|\T2A/cmr/m/n/12 Пользователь уви-дел дан-ные с
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 224--224
+[]|\T2A/cmr/m/n/12 Пользователь ре-ша-ет из-ме-нить
+ []
+
+[11]
+Underfull \hbox (badness 1092) in paragraph at lines 243--243
+[]|\T2A/cmr/m/n/12 Администратор за-хо-дит в свою
+ []
+
+[12]
+Underfull \hbox (badness 4279) in paragraph at lines 283--283
+[]|\T2A/cmr/m/n/12 Пользователь ре-ша-ет опра-вить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--283
+[]|\T2A/cmr/m/n/12 Данные успеш-но об-ра-бо-тан-ны
+ []
+
+) [13] (/home/gosha/latex/Kursach/Kursovaya/Kursach_main.aux (/home/gosha/latex/Kursach/Kursovaya/vvedenie.aux) (/home/gosha/latex/Kursach/Kursovaya/Postanovka.aux) (/home/gosha/latex/Kursach/Kursovaya/analiz_predmetnoi_oblasti.aux) (/home/gosha/latex/Kursach/Kursovaya/model_proekta.aux)) ) 
 Here is how much of TeX's memory you used:
- 4806 strings out of 492616
- 66060 string characters out of 6135178
- 140338 words of memory out of 5000000
- 8653 multiletter control sequences out of 15000+600000
- 9010 words of font info for 22 fonts, out of 8000000 for 9000
+ 4983 strings out of 492616
+ 69315 string characters out of 6135178
+ 146603 words of memory out of 5000000
+ 8777 multiletter control sequences out of 15000+600000
+ 13100 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,4n,40p,618b,185s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,8n,40p,654b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /home/gosha/latex/Kursach/Kursovaya/Postanovka.pdf (2 pages, 61967 bytes).
+Output written on /home/gosha/latex/Kursach/Kursovaya/Kursach_main.pdf (13 pages, 96818 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 64 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
